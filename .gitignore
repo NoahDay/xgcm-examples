@@ -1,2 +1,6 @@
 *.nc
 .ipynb_checkpoints
+bin/
+lib/
+etc/
+share/
